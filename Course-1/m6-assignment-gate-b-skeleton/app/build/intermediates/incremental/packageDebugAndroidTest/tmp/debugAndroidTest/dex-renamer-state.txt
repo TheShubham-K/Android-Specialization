@@ -1,0 +1,4 @@
+#Mon Jul 27 19:25:04 IST 2020
+base.0=E\:\\Corsera Android-Assignment\\m6-assignment-gate-b-skeleton\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
